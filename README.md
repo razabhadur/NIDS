@@ -1,5 +1,5 @@
 # NIDS
-Cybersecurity Network Intrusion Detection System (NIDS) Project Description Welcome to the Cybersecurity Network Intrusion Detection System (NIDS) project repository. This project aims to develop a real-time Network Intrusion Detection System using machine learning techniques. 
+
 Cybersecurity Network Intrusion Detection System (NIDS)
 Project Description
 Welcome to the Cybersecurity Network Intrusion Detection System (NIDS) project repository. This project aims to develop a real-time Network Intrusion Detection System using machine learning techniques. The NIDS monitors network traffic, classifies it as normal or anomalous, and raises alerts for potential intrusion attempts.
